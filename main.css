@@ -1,0 +1,58 @@
+
+h1 {
+	font-family: sans-serif;
+	text-align: center;
+	font-weight: bold;
+	color: white;
+	background-color: #0000FF;
+	padding: 20px;
+	margin: 0;
+}
+
+body {
+	background-color: #C0C0C0;
+}
+
+nav ul {
+	margin: 0;
+	background-color: #000080;
+	padding: 5px;
+	color: white;
+}
+
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	padding: 5px;
+	background-color: #000080;
+	color: white;
+}
+
+nav ul li a {
+	color: white;
+}
+
+table, th, td {
+	border: 1px solid black;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+.car-table {
+	border: 2px solid black;
+	margin-left:auto; 
+    margin-right:auto;
+}
+
+.car-th-col1 {
+	padding: 0 10px;
+}
+
+.car-th-col2 {
+	padding: 0 10px;
+}
+
+.car-image {
+	width: 50%;
+	height: 50%;
+}
