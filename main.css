@@ -56,3 +56,10 @@ table, th, td {
 	width: 50%;
 	height: 50%;
 }
+
+.hike-p {
+	font-size: 20px;
+	font-family: Arial;
+	color: #228B22;
+	margin: 2% 5%;
+}
